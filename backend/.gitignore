@@ -1,0 +1,13 @@
+.env
+license-binding.json
+license-binding.json.tmp
+node_modules/
+license-state.json
+license-state.json.tmp
+data/
+*.log
+*.bak
+*.backup*
+mercadolivre-oauth.json
+shopee-collector-saturation-state.json
+autopilot-*.json
